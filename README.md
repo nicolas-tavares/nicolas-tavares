@@ -12,7 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-tavares&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-##
+---
 
 ### Most used languages
 
