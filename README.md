@@ -10,17 +10,6 @@
 
 ---
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-tavares&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=nicolas-tavares&hide=contribs,prs&show_icons=true&theme=tokyonight" />
-</div>
-
-
-
-
----
-
 
 <div style="display: inline_block"><br>
 
