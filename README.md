@@ -18,4 +18,4 @@ Building integrations, payment solutions, and desktop applications in Florianóp
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="SQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
-<p><strong>Currently working with:</strong><br>API integrations · Authentication · Payment workflows · Avalonia · WinForms</p>
+<p><strong>Currently working with:</strong><br>API integrations · Authentication · Payment workflows </p>
